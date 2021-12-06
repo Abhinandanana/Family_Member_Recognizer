@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right top, #4eb4f2, #2ec0f2, #18cbed, #29d5e4, #4aded9);
+}
+#camera, #final{
+    border: 4px;
+    border-color: greenyellow;
+    border-style: ridge;
+    width: 350px;
+    height: 300px;
+}
+#capture, #identify{
+    background-image: linear-gradient(to right top, #38edb3, #24ebc0, #14e9cc, #14e7d6, #24e4de);
+    color: white;
+    font-size: 15px;
+}
+#label{
+    color: white;
+}
